@@ -1,6 +1,6 @@
 ### Мій стат
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xslimakx&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ### Мій дс
 
