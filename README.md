@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=🐧+Arch+Linux+enthusiast;🛠️+Hobbyist%2C+not+a+pro+(yet+😄);📚+Always+learning+something+new;🇺🇦+From+Ukraine" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=🐧+Arch+Linux+enthusiast;🎵+Music+maker;🧠+Social+engineering+nerd;🛠️+Hobbyist%2C+not+a+pro+(yet+😄);📚+Always+learning+something+new;🇺🇦+From+Ukraine" alt="Typing SVG" /></a>
 
 **[🇬🇧 English](#-english) · [🇺🇦 Українська](#-українська)**
 
@@ -20,6 +20,11 @@
 - 🎮 When I'm not in the terminal, you'll probably find me on Discord
 - 📍 Ukraine 🇺🇦
 
+### 🎧 What I enjoy
+- 🎵 **Making music** — experimenting with beats, sounds and my own tracks
+- 🧠 **Social engineering** — how people get manipulated online and how to protect yourself from it (security awareness)
+- 🐧 Ricing and tweaking my Linux setup
+
 ### 🧰 What I use
 
 <p align="center">
@@ -32,6 +37,8 @@
   <img src="https://img.shields.io/badge/I_use_Arch_btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Level-Hobbyist-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎵_Music-Producer-FF5500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Social-Engineering-B22222?style=for-the-badge" />
 </p>
 
 ---
@@ -45,6 +52,11 @@
 - 🎮 Коли я не в терміналі — швидше за все сиджу в Discord
 - 📍 Україна 🇺🇦
 
+### 🎧 Що мені подобається
+- 🎵 **Робити музику** — експериментую з бітами, звуками і власними треками
+- 🧠 **Соціальна інженерія** — як людьми маніпулюють в інтернеті і як від цього захиститися
+- 🐧 Налаштовувати та «райсити» свій Linux
+
 ### 🧰 Чим користуюся
 Arch Linux, CachyOS, термінал, Git, трохи Python і багато цікавості 😄
 
@@ -54,8 +66,10 @@ Arch Linux, CachyOS, термінал, Git, трохи Python і багато ц
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xslimakx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xslimakx&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xslimakx&theme=tokyonight" width="100%" />
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xslimakx&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xslimakx&theme=tokyonight&utcOffset=3" />
 
 <img src="https://streak-stats.demolab.com?user=xslimakx&theme=tokyonight&hide_border=true" />
 
