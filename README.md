@@ -1,37 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:2b0a2e,100:5c1a4a&height=220&section=header&text=xslimakx&fontSize=60&fontColor=ff7eb6&stroke=ff7eb6&strokeWidth=1&desc=arch%20·%20music%20·%20people&descSize=18&descAlignY=72&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=200&section=header&text=xslimakx_&fontSize=64&fontColor=ededed&fontAlign=50&fontAlignY=45&desc=справа%20№%2000%20·%20MMXXVI&descSize=14&descAlign=50&descAlignY=75" width="100%"/>
 
 <div align="center">
 
-**[🇬🇧 EN](#-en) · [🇺🇦 UA](#-ua)**
+`[ EN ]` [english](#-01--about) &nbsp;·&nbsp; `[ UA ]` [українська](#-01--про-мене)
 
 </div>
 
-## 🇬🇧 EN
+---
 
-🖤 hobbyist, not a dev &nbsp;·&nbsp; 🐧 arch & cachyos &nbsp;·&nbsp; 🎧 making music &nbsp;·&nbsp; 🕸️ building tools that help people find each other &nbsp;·&nbsp; 🇺🇦
+### № 01 — about
+`справа № 01 · whoami`
 
-## 🇺🇦 UA
+> hobbyist, not a dev. arch user. makes music.<br>
+> builds tools that help people find each other_
 
-🖤 любитель, не розробник &nbsp;·&nbsp; 🐧 arch і cachyos &nbsp;·&nbsp; 🎧 роблю музику &nbsp;·&nbsp; 🕸️ роблю штуки, щоб люди знаходили одне одного &nbsp;·&nbsp; 🇺🇦
+### № 01 — про мене
+`справа № 01 · whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,vim,python&theme=dark" />
+> любитель, не розробник. сиджу на arch. роблю музику.<br>
+> роблю штуки, щоб люди знаходили одне одного_
+
+---
+
+### № 02 — setup
+`справа № 02 · neofetch`
+
+<p>
+  <img src="https://img.shields.io/badge/arch_linux-0a0a0a?style=flat-square&logo=archlinux&logoColor=ededed" />
+  <img src="https://img.shields.io/badge/cachyos-0a0a0a?style=flat-square&logo=archlinux&logoColor=ededed" />
+  <img src="https://img.shields.io/badge/bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=ededed" />
+  <img src="https://img.shields.io/badge/git-0a0a0a?style=flat-square&logo=git&logoColor=ededed" />
+  <img src="https://img.shields.io/badge/python-0a0a0a?style=flat-square&logo=python&logoColor=ededed" />
+  <img src="https://img.shields.io/badge/music-0a0a0a?style=flat-square&logo=soundcloud&logoColor=ededed" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/I_use_Arch_btw-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=ff7eb6" />
-  <img src="https://img.shields.io/badge/CachyOS-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=ff7eb6" />
-  <img src="https://img.shields.io/badge/🎧_music-0d0d0d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🕸️_connecting_people-0d0d0d?style=for-the-badge" />
-</p>
+---
 
-<div align="center">
+### № 03 — stats
+`справа № 03 · github`
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xslimakx&theme=radical" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xslimakx&theme=radical&utcOffset=3" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xslimakx&theme=nord_dark" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xslimakx&theme=nord_dark&utcOffset=3" />
+
+---
+
+### № 04 — онлайн
+`справа № 04 · discord`
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273493998956576778?theme=dark)](https://discord.com/users/273493998956576778)
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:5c1a4a,50:2b0a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<sub>`kyiv · MMXXVI · i use arch btw_`</sub>
+
+</div>
